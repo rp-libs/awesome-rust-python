@@ -51,6 +51,7 @@ Developer tools that enhance Python development workflows.
 - **[pylyzer](https://github.com/mtshiba/pylyzer)** - A fast, feature-rich static code analyzer & language server for Python.
 - **[ruff](https://github.com/astral-sh/ruff)** - Extremely fast Python linter and code formatter, 10-100x faster than existing tools. Replaces Flake8, isort, and more.
 - **[rumdl](https://github.com/rvben/rumdl)** - Markdown Linter and Formatter written in Rust.
+- **[prek](https://github.com/j178/prek)** - A fast, Rust-based reimplementation of the pre-commit framework. ~10x faster with zero dependencies.
 - **[rye](https://github.com/astral-sh/rye)** - Experimental Python project management tool from the creator of Flask. Handles Python installations, dependencies, and virtualenvs.
 - **[uv](https://github.com/astral-sh/uv)** - Ultra-fast Python package installer and resolver, designed as a drop-in replacement for pip and pip-tools.
 
