@@ -73,6 +73,7 @@ Web servers, networking libraries, and cryptographic tools.
 
 Tools for machine learning, NLP, and AI applications.
 
+- **[chroma](https://github.com/chroma-core/chroma)** - Open-source search and retrieval database for AI applications.
 - **[safetensors](https://github.com/huggingface/safetensors)** - Safe and fast tensor serialization format. Prevents arbitrary code execution and enables zero-copy deserialization.
 - **[tokenizers](https://github.com/huggingface/tokenizers)** - Fast tokenizers for modern NLP pipelines from Hugging Face. Provides extremely fast training, tokenization, and encoding.
 
