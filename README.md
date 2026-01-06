@@ -52,6 +52,7 @@ Developer tools that enhance Python development workflows.
 - **[ruff](https://github.com/astral-sh/ruff)** - Extremely fast Python linter and code formatter, 10-100x faster than existing tools. Replaces Flake8, isort, and more.
 - **[rumdl](https://github.com/rvben/rumdl)** - Markdown Linter and Formatter written in Rust.
 - **[prek](https://github.com/j178/prek)** - A fast, Rust-based reimplementation of the pre-commit framework. ~10x faster with zero dependencies.
+- **[ty](https://github.com/astral-sh/ty)** - An extremely fast Python type checker and language server, written in Rust.
 - **[rye](https://github.com/astral-sh/rye)** - Experimental Python project management tool from the creator of Flask. Handles Python installations, dependencies, and virtualenvs.
 - **[uv](https://github.com/astral-sh/uv)** - Ultra-fast Python package installer and resolver, designed as a drop-in replacement for pip and pip-tools.
 
@@ -91,6 +92,8 @@ High-performance caching and data structure libraries.
 Libraries for text processing, parsing, and manipulation.
 
 - **[pyromark](https://github.com/monosans/pyromark)** - Blazingly fast Markdown parser for Python written in Rust.
+- **[Python-Regex](https://github.com/litmus-web/Python-Regex)** - A port of the Rust regex library to python for super speed linear matching.
+- **[regex-rs](https://github.com/circuitsacul/regex-rs)** - Python bindings for the rust regex crate.
 - **[tantivy-py](https://github.com/quickwit-oss/tantivy-py)** - Python bindings for Tantivy full-text search engine.
 
 ## Utilities
@@ -98,9 +101,17 @@ Libraries for text processing, parsing, and manipulation.
 Miscellaneous utility libraries.
 
 - **[geohashr](https://github.com/gi0baro/geohashr)** - Just another Python geohashing library.
+- **[hexora](https://github.com/rushter/hexora)** - Static analysis of malicious Python code.
+- **[jsrun](https://github.com/imfing/jsrun)** - Modern JavaScript runtime in Python, powered by V8 and bridged by Rust.
 - **[PyDomainExtractor](https://github.com/Intsights/PyDomainExtractor)** - A blazingly fast domain extraction library written in Rust.
+- **[pythonize](https://github.com/davidhewitt/pythonize)** - Python serialization library for Rust types.
+- **[result](https://github.com/rustedpy/result)** - A simple Rust like Result type for Python 3. Fully type annotated.
+- **[rtoml](https://github.com/samuelcolvin/rtoml)** - A fast TOML library for python implemented in rust.
+- **[ryaml](https://github.com/emmatyping/ryaml)** - Python yaml library using Rust.
+- **[tonio](https://github.com/gi0baro/tonio)** - A multi-threaded async runtime for Python.
 - **[uuid-utils](https://github.com/aminalaee/uuid-utils)** - Python bindings to Rust UUID.
 - **[whenever](https://github.com/ariebovenberg/whenever)** - Modern datetime library for Python.
+- **[zensical](https://github.com/zensical/zensical)** - A modern static site generator by the Material for MkDocs team.
 
 ## Game Development
 
