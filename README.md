@@ -1,23 +1,31 @@
+<div align="center">
+
 # Awesome Rust Python [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Python libraries and tools powered by Rust.
 
-Rust brings performance, safety, and concurrency to Python. This list showcases libraries that leverage Rust to supercharge Python applications.
+</div>
 
-## Contents
+> Rust brings performance, safety, and concurrency to Python. This list showcases libraries that leverage Rust to supercharge Python applications.
 
-- [Build Tools & Frameworks](#build-tools--frameworks)
-- [Data Processing](#data-processing)
-- [Development Tools](#development-tools)
-- [Web & Networking](#web--networking)
-- [Machine Learning & AI](#machine-learning--ai)
-- [Performance & Caching](#performance--caching)
-- [Text Processing & Parsing](#text-processing--parsing)
-- [Utilities](#utilities)
-- [Game Development](#game-development)
-- [Resources](#resources)
+---
 
-## Build Tools & Frameworks
+## 📚 Contents
+
+- [🏗️ Build Tools & Frameworks](#-build-tools--frameworks)
+- [🧠 Data Processing](#-data-processing)
+- [🛠️ Development Tools](#️-development-tools)
+- [🌐 Web & Networking](#-web--networking)
+- [🤖 Machine Learning & AI](#-machine-learning--ai)
+- [⚡ Performance & Caching](#-performance--caching)
+- [📝 Text Processing & Parsing](#-text-processing--parsing)
+- [🧰 Utilities](#-utilities)
+- [🎮 Game Development](#-game-development)
+- [📖 Resources](#-resources)
+
+---
+
+## 🏗️ Build Tools & Frameworks
 
 Tools and frameworks for building Rust-powered Python extensions.
 
@@ -32,7 +40,7 @@ Tools and frameworks for building Rust-powered Python extensions.
 - [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust.
 - [setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for building Rust extensions.
 
-## Data Processing
+## 🧠 Data Processing
 
 High-performance data processing and serialization libraries.
 
@@ -45,7 +53,7 @@ High-performance data processing and serialization libraries.
 - [rustworkx](https://github.com/Qiskit/rustworkx) - High-performance Python graph library implemented in Rust.
 - [yaml-rs](https://github.com/lava-sh/yaml-rs) - High-performance YAML v1.2 parser.
 
-## Development Tools
+## 🛠️ Development Tools
 
 Developer tools that enhance Python development workflows.
 
@@ -58,7 +66,7 @@ Developer tools that enhance Python development workflows.
 - [ty](https://github.com/astral-sh/ty) - Python type checker and language server.
 - [uv](https://github.com/astral-sh/uv) - Python package installer and resolver.
 
-## Web & Networking
+## 🌐 Web & Networking
 
 Web servers, networking libraries, and cryptographic tools.
 
@@ -76,7 +84,7 @@ Web servers, networking libraries, and cryptographic tools.
 - [rnet](https://github.com/0x676e67/rnet) - HTTP client with TLS fingerprinting.
 - [Robyn](https://github.com/sparckles/Robyn) - Async web framework with a Rust runtime.
 
-## Machine Learning & AI
+## 🤖 Machine Learning & AI
 
 Tools for machine learning, NLP, and AI applications.
 
@@ -86,7 +94,7 @@ Tools for machine learning, NLP, and AI applications.
 - [safetensors](https://github.com/huggingface/safetensors) - Safe and fast tensor serialization format.
 - [tokenizers](https://github.com/huggingface/tokenizers) - Fast tokenizers for NLP pipelines.
 
-## Performance & Caching
+## ⚡ Performance & Caching
 
 High-performance caching and data structure libraries.
 
@@ -95,7 +103,7 @@ High-performance caching and data structure libraries.
 - [moka-py](https://github.com/deliro/moka-py) - High performance caching library.
 - [rbloom](https://github.com/KenanHanke/rbloom) - Bloom filter library.
 
-## Text Processing & Parsing
+## 📝 Text Processing & Parsing
 
 Libraries for text processing, parsing, and manipulation.
 
@@ -105,7 +113,7 @@ Libraries for text processing, parsing, and manipulation.
 - [regex-rs](https://github.com/circuitsacul/regex-rs) - Bindings for the regex crate.
 - [tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Bindings for Tantivy full-text search engine.
 
-## Utilities
+## 🧰 Utilities
 
 Miscellaneous utility libraries.
 
@@ -127,13 +135,13 @@ Miscellaneous utility libraries.
 - [whenever](https://github.com/ariebovenberg/whenever) - Modern datetime library.
 - [zensical](https://github.com/zensical/zensical) - Static site generator.
 
-## Game Development
+## 🎮 Game Development
 
 Game engines and frameworks.
 
 - [pyxel](https://github.com/kitao/pyxel) - Retro game engine.
 
-## Resources
+## 📖 Resources
 
 ### Learning Materials
 
