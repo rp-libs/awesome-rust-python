@@ -21,6 +21,7 @@ Rust brings performance, safety, and concurrency to Python. This list showcases 
 
 Tools and frameworks for building Rust-powered Python extensions.
 
+- [cpython](https://github.com/Rust-for-CPython/cpython) - Experimental Rust-for-CPython branch focused on bringing Rust into CPython internals.
 - [inline-python](https://github.com/m-ou-se/inline-python) - Inline Python code directly in your Rust code.
 - [maturin](https://github.com/PyO3/maturin) - Build and publish Rust-based Python packages with minimal configuration.
 - [pyo3-async-runtimes](https://github.com/PyO3/pyo3-async-runtimes) - PyO3-based bridges between Python and Rust async runtimes.
@@ -35,11 +36,13 @@ Tools and frameworks for building Rust-powered Python extensions.
 
 High-performance data processing and serialization libraries.
 
+- [delta-rs](https://github.com/delta-io/delta-rs) - Native Rust library for Delta Lake with Python bindings.
 - [jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser.
-- [ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library.
+- [ormsgpack](https://github.com/ormsgpack/ormsgpack) - MessagePack serialization library for Python written in Rust.
 - [orjson](https://github.com/ijl/orjson) - Fast, correct JSON library.
 - [polars](https://github.com/pola-rs/polars) - DataFrame library with a Pandas-like API.
 - [pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for Pydantic v2.
+- [rustworkx](https://github.com/Qiskit/rustworkx) - High-performance Python graph library implemented in Rust.
 - [yaml-rs](https://github.com/lava-sh/yaml-rs) - High-performance YAML v1.2 parser.
 
 ## Development Tools
@@ -59,9 +62,13 @@ Developer tools that enhance Python development workflows.
 
 Web servers, networking libraries, and cryptographic tools.
 
+- [BustAPI](https://github.com/GrandpaEJ/BustAPI) - High-performance Python web framework.
+- [compio-py](https://github.com/compio-rs/compio-py) - AsyncIO event loop using Rust compio.
 - [cryptography](https://github.com/pyca/cryptography) - Cryptographic recipes and primitives.
+- [django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django.
 - [granian](https://github.com/emmett-framework/granian) - High-performance ASGI/WSGI server.
 - [httparse](https://github.com/adriangb/httparse) - Wrapper for the httparse HTTP parser.
+- [leviathan](https://github.com/kython28/leviathan) - Lightning-fast event loop for Python asyncio.
 - [nh3](https://github.com/messense/nh3) - Binding to Ammonia HTML sanitizer.
 - [pyreqwest](https://github.com/MarkusSintonen/pyreqwest) - HTTP client based on reqwest.
 - [pyrtls](https://github.com/djc/pyrtls) - Rustls-based TLS library.
@@ -73,7 +80,9 @@ Web servers, networking libraries, and cryptographic tools.
 
 Tools for machine learning, NLP, and AI applications.
 
+- [boxlite](https://github.com/boxlite-ai/boxlite) - Local-first sandbox for AI agents.
 - [chroma](https://github.com/chroma-core/chroma) - Search and retrieval database for AI applications.
+- [monty](https://github.com/pydantic/monty) - Minimal secure Python interpreter for AI workloads.
 - [safetensors](https://github.com/huggingface/safetensors) - Safe and fast tensor serialization format.
 - [tokenizers](https://github.com/huggingface/tokenizers) - Fast tokenizers for NLP pipelines.
 
@@ -90,6 +99,7 @@ High-performance caching and data structure libraries.
 
 Libraries for text processing, parsing, and manipulation.
 
+- [comrak](https://github.com/lmmx/comrak) - Python bindings for Comrak CommonMark/GFM parser.
 - [Python-Regex](https://github.com/litmus-web/Python-Regex) - Port of the Rust regex library.
 - [pyromark](https://github.com/monosans/pyromark) - Markdown parser.
 - [regex-rs](https://github.com/circuitsacul/regex-rs) - Bindings for the regex crate.
@@ -101,13 +111,18 @@ Miscellaneous utility libraries.
 
 - [geohashr](https://github.com/gi0baro/geohashr) - Geohashing library.
 - [hexora](https://github.com/rushter/hexora) - Static analysis of malicious code.
+- [imgrs](https://github.com/GrandpaEJ/imgrs) - High-performance image processing library for Python powered by Rust.
+- [oxyde](https://github.com/mr-fatalyst/oxyde) - Type-safe async ORM with a high-performance Rust core.
 - [jsrun](https://github.com/imfing/jsrun) - JavaScript runtime powered by V8.
+- [magic-rs](https://github.com/rp-libs/magic-rs) - Dependency-free file type detection backed by Rust.
 - [PyDomainExtractor](https://github.com/Intsights/PyDomainExtractor) - Domain extraction library.
 - [pythonize](https://github.com/davidhewitt/pythonize) - Serialization library for Rust types.
+- [ratatui-py](https://github.com/holo-q/ratatui-py) - Python bindings for Ratatui (Rust TUI) via FFI.
 - [result](https://github.com/rustedpy/result) - Rust-like Result type.
 - [rtoml](https://github.com/samuelcolvin/rtoml) - TOML library.
 - [ryaml](https://github.com/emmatyping/ryaml) - YAML library.
 - [tonio](https://github.com/gi0baro/tonio) - Multi-threaded async runtime.
+- [ulid-rs-py](https://github.com/rp-libs/ulid-rs-py) - Fast ULID implementation for Python.
 - [uuid-utils](https://github.com/aminalaee/uuid-utils) - Bindings to Rust UUID.
 - [whenever](https://github.com/ariebovenberg/whenever) - Modern datetime library.
 - [zensical](https://github.com/zensical/zensical) - Static site generator.
