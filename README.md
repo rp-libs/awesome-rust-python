@@ -10,7 +10,7 @@ Python libraries and tools powered by Rust.
 
 ---
 
-## 📚 Contents
+## Contents
 
 - [🏗️ Build Tools & Frameworks](#-build-tools--frameworks)
 - [🧠 Data Processing](#-data-processing)
