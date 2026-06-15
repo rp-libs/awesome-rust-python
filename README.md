@@ -51,6 +51,7 @@ High-performance data processing and serialization libraries.
 - [polars](https://github.com/pola-rs/polars) - DataFrame library with a Pandas-like API.
 - [pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for Pydantic v2.
 - [rustworkx](https://github.com/Qiskit/rustworkx) - High-performance Python graph library implemented in Rust.
+- [StreamXL](https://github.com/Mullassery/StreamXL) - Streaming XLSX reader for Python powered by Rust. Reads large Excel files row-by-row at constant memory. 4-5x faster than openpyxl.
 - [yaml-rs](https://github.com/lava-sh/yaml-rs) - High-performance YAML v1.2 parser.
 
 ## Development Tools
