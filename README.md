@@ -51,7 +51,8 @@ High-performance data processing and serialization libraries.
 - [polars](https://github.com/pola-rs/polars) - DataFrame library with a Pandas-like API.
 - [pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for Pydantic v2.
 - [rustworkx](https://github.com/Qiskit/rustworkx) - High-performance Python graph library implemented in Rust.
-- [StreamXL](https://github.com/Mullassery/StreamXL) - Streaming XLSX reader for Python powered by Rust. Reads large Excel files row-by-row at constant memory. 4-5x faster than openpyxl.
+- [statguard](https://github.com/Mullassery/statguard) - Declarative data quality and validation library — schema checks, drift detection (PSI + KS), anomaly detection, and native Delta Lake/Iceberg support. 13–25× faster than pandera and Great Expectations.
+- [StreamXL](https://github.com/Mullassery/StreamXL) - Streaming XLSX reader that processes large Excel files row-by-row at constant memory usage. 4–5× faster than openpyxl with PyO3 bindings.
 - [yaml-rs](https://github.com/lava-sh/yaml-rs) - High-performance YAML v1.2 parser.
 
 ## Development Tools
@@ -89,6 +90,7 @@ Web servers, networking libraries, and cryptographic tools.
 
 Tools for machine learning, NLP, and AI applications.
 
+- [AudiencePro](https://github.com/Mullassery/AudiencePro) - Python library for customer segmentation — RFM analysis, KMeans/K-Prototypes clustering, drift detection, and streaming updates at 10–25× the speed of scikit-learn + pandas.
 - [boxlite](https://github.com/boxlite-ai/boxlite) - Local-first sandbox for AI agents.
 - [chroma](https://github.com/chroma-core/chroma) - Search and retrieval database for AI applications.
 - [monty](https://github.com/pydantic/monty) - Minimal secure Python interpreter for AI workloads.
