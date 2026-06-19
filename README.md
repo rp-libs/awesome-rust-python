@@ -90,7 +90,7 @@ Web servers, networking libraries, and cryptographic tools.
 
 Tools for machine learning, NLP, and AI applications.
 
-- [AudiencePro](https://github.com/Mullassery/AudiencePro) - Python library for customer segmentation — RFM analysis, KMeans/K-Prototypes clustering, drift detection, and streaming updates at 10–25× the speed of scikit-learn + pandas.
+- [ClusterAudienceKit](https://github.com/Mullassery/ClusterAudienceKit) - Python library for customer segmentation in Martech pipelines — RFM analysis, clustering, streaming updates, and drift detection in a single pip install.
 - [boxlite](https://github.com/boxlite-ai/boxlite) - Local-first sandbox for AI agents.
 - [chroma](https://github.com/chroma-core/chroma) - Search and retrieval database for AI applications.
 - [monty](https://github.com/pydantic/monty) - Minimal secure Python interpreter for AI workloads.
