@@ -77,6 +77,7 @@ Web servers, networking libraries, and cryptographic tools.
 - [granian](https://github.com/emmett-framework/granian) - High-performance ASGI/WSGI server.
 - [httparse](https://github.com/adriangb/httparse) - Wrapper for the httparse HTTP parser.
 - [leviathan](https://github.com/kython28/leviathan) - Lightning-fast event loop for Python asyncio.
+- [mkdocs-minify-html-plugin](https://github.com/monosans/mkdocs-minify-html-plugin) - MkDocs and ProperDocs plugin that minifies HTML, CSS and JS with minify-html.
 - [nh3](https://github.com/messense/nh3) - Binding to Ammonia HTML sanitizer.
 - [pyreqwest](https://github.com/MarkusSintonen/pyreqwest) - HTTP client based on reqwest.
 - [pyrtls](https://github.com/djc/pyrtls) - Rustls-based TLS library.
@@ -109,7 +110,7 @@ Libraries for text processing, parsing, and manipulation.
 
 - [comrak](https://github.com/lmmx/comrak) - Python bindings for Comrak CommonMark/GFM parser.
 - [Python-Regex](https://github.com/litmus-web/Python-Regex) - Port of the Rust regex library.
-- [pyromark](https://github.com/monosans/pyromark) - Markdown parser.
+- [pyromark](https://github.com/monosans/pyromark) - CommonMark and GFM Markdown pull parser and HTML renderer built on pulldown-cmark.
 - [regex-rs](https://github.com/circuitsacul/regex-rs) - Bindings for the regex crate.
 - [tantivy-py](https://github.com/quickwit-oss/tantivy-py) - Bindings for Tantivy full-text search engine.
 
